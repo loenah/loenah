@@ -1,38 +1,45 @@
  Hi, I'm Loenah 👋
 
-💻 Aspiring Developer | Fun Projects Enthusiast | Building My Portfolio
+💻 Aspiring Developer | Turning ideas into real projects | Web, Python & Automation
 
-Welcome to my GitHub! I love turning ideas into real projects — from small tools and games to web apps and automation scripts.  
-
----
-
- 🚀 About Me
-- Passionate about "learning by building"  
-- Always exploring "new technologies" and creative coding  
-- Focused on "real projects that solve problems"  
+Welcome to my GitHub! I create fun, practical projects while building skills that turn into a real career. Here you’ll find tools, bots, web apps, and experiments I’m working on.
 
 ---
 
  🛠 Skills
-- Languages: HTML, CSS, JavaScript, Python  
-- Tools & Platforms: Git, GitHub, VS Code, Browser DevTools  
-- Specialties: Web development, bots, automation, small apps  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
  📂 Projects
-- Meme Generator: Create memes instantly in the browser  
-- Portfolio Website: My projects, fun experiments, and coding journey  
+- Meme Generator – Instantly create memes in the browser  
+- Portfolio Website – Showcases my projects and coding journey  
+- Small Bots & Tools – Fun automations and mini apps  
 (More projects coming soon!)
 
 ---
 
+🌱 Learning
+I’m actively learning:
+- Advanced JavaScript & TypeScript  
+- Python automation & web scraping  
+- Frontend frameworks (React, Vue)  
+- Building deployable apps & real-world tools
+
+---
+
  📫 Connect With Me
-- [LinkedIn](www.linkedin.com/in/keza-loenah-214448289)   
-- [Instagram](https://www.instagram.com/____.nah___/)  
+[LinkedIn](https://www.linkedin.com/in/keza-loenah-214448289/) | [Instagram](https://www.instagram.com/____.nah___/)  
 
 ---
 
  ⚡ Fun Fact
-I code for fun, money, and a future career — all while building things I actually want to use.  
+I code for "fun, money, and a career" — building things I actually want to use.  
 
+---
+
+ 📊 GitHub Stats
+![Loenah's GitHub stats](https://github-readme-stats.vercel.app/api?username=loenah&show_icons=true&theme=radical)
